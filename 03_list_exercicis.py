@@ -19,7 +19,7 @@ print(f"El missatge secret es {missatge_secret}")
 
 nombres = [10, 20, 30, 40, 50]
 nombres[0], nombres[-1] = nombres[-1], nombres[0]   # per cambiar la direcció del vector de la primera i la ultima posició
-print(f"El nou nomero de nombres es {nombres}. ")
+print(f"El nou numero de nombres es {nombres}. ")
 
 # Exercici 3: L'entrepà de llistes
 # Donades les llistes següents:
