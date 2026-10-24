@@ -12,7 +12,7 @@ ubicacio = "Sala de servidors"
 num_ports = 25
 ences = True   # valor booleano para representar si o no si estuviera apagado seria False
 
-print(f"L'encaminador {nom_encaminador} es troba a {ubicacio}, te {num_ports} ports i el seu estat es d'ences es {ences}.")
+print(f"L'encaminador {nom_encaminador} es troba a {ubicacio}, te {num_ports} ports i el seu estat es d'ences es {ences}.") # Una f-string es lo de poner los valores entre corchetes y un print seguido de f 
 
 
 # Exercici 2
